@@ -1,0 +1,5 @@
+obj/
+*.user
+bin/
+.vs/
+packages/
